@@ -1,0 +1,10 @@
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\bin\Debug\netcoreapp1.1\LinqSkeleton.deps.json
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.json
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\bin\Debug\netcoreapp1.1\LinqSkeleton.runtimeconfig.dev.json
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\bin\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\bin\Debug\netcoreapp1.1\LinqSkeleton.pdb
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\obj\Debug\netcoreapp1.1\LinqSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfoInputs.cache
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\obj\Debug\netcoreapp1.1\LinqSkeleton.AssemblyInfo.cs
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\obj\Debug\netcoreapp1.1\LinqSkeleton.dll
+C:\Users\Zach\Documents\Coding_Dojo_2018\C#\Music_LINQ\obj\Debug\netcoreapp1.1\LinqSkeleton.pdb
